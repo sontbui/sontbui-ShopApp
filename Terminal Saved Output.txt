@@ -1,0 +1,1081 @@
+Last login: Thu Oct  5 14:56:44 on console
+/dev/fd/12:18: command not found: compdef
+cd%                                                                             sonthanhbui@SonTBui ~ % cd /Users/sonthanhbui/Downloads
+sonthanhbui@SonTBui Downloads % ls
+$RECYCLE.BIN
+I - TỪ VỰNG SPEAKING
+LTNN - bao cao THNN nganh LKTCLC (1).docx
+LTNN - bao cao THNN nganh LKTCLC.docx
+Orange and Black Illustration Desktop Wallpaper.png
+ShopAngular
+ShopApi
+ShopApii
+ShopAppAngular
+ShopNew
+TeamViewer.dmg
+TeamViewerHost.dmg
+Thumbs.db
+anydesk.dmg
+desktop.ini
+shopabc
+sonthanhbui@SonTBui Downloads % cd ShopAngular
+sonthanhbui@SonTBui ShopAngular % sudo ng serve
+Password:
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files   | Names         |  Raw Size
+vendor.js             | vendor        |   2.35 MB | 
+styles.css, styles.js | styles        | 546.50 kB | 
+polyfills.js          | polyfills     | 333.17 kB | 
+main.js               | main          |  51.81 kB | 
+runtime.js            | runtime       |   6.52 kB | 
+
+                      | Initial Total |   3.26 MB
+
+Build at: 2023-10-05T07:58:47.767Z - Hash: a7ceae60b3a3c9df - Time: 1704ms
+
+** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **
+
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 55.44 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T07:59:56.639Z - Hash: 61cbe4f8e4d902f7 - Time: 227ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 59.81 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:00:16.147Z - Hash: 697d40fc7fb7c854 - Time: 239ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 59.61 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:01:01.656Z - Hash: a6e57f44f2a3fd57 - Time: 201ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 59.61 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:01:07.999Z - Hash: 16c5a5b087822767 - Time: 188ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 59.61 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:01:11.440Z - Hash: 1115ef70592c98b4 - Time: 175ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+5 unchanged chunks
+
+Build at: 2023-10-05T08:02:40.533Z - Hash: 1115ef70592c98b4 - Time: 165ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+5 unchanged chunks
+
+Build at: 2023-10-05T08:02:47.263Z - Hash: 1115ef70592c98b4 - Time: 132ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+5 unchanged chunks
+
+Build at: 2023-10-05T08:02:50.238Z - Hash: 1115ef70592c98b4 - Time: 130ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+5 unchanged chunks
+
+Build at: 2023-10-05T08:02:55.398Z - Hash: 1115ef70592c98b4 - Time: 125ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 59.61 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:03:21.233Z - Hash: bdd5e9d9630a6987 - Time: 184ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 55.44 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:03:41.965Z - Hash: a12c2eb7bf9ea603 - Time: 173ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 51.82 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:03:51.984Z - Hash: ae78c396c25b75fa - Time: 142ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 51.82 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:03:54.970Z - Hash: fa88c08d0407491d - Time: 144ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+5 unchanged chunks
+
+Build at: 2023-10-05T08:06:45.531Z - Hash: fa88c08d0407491d - Time: 181ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 52.44 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:07:45.315Z - Hash: 73766456f2071dfa - Time: 190ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 53.05 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:10:04.437Z - Hash: 99131d4663da43f8 - Time: 164ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 53.12 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:10:17.140Z - Hash: d4e655220dae6481 - Time: 184ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 53.33 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:10:36.130Z - Hash: 634b6f23799b900e - Time: 174ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 53.33 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:10:41.051Z - Hash: a235e0cf0c2e6b11 - Time: 149ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 53.28 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:10:59.353Z - Hash: 6ef1d01d8e0a41e1 - Time: 164ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+5 unchanged chunks
+
+Build at: 2023-10-05T08:11:28.453Z - Hash: 6ef1d01d8e0a41e1 - Time: 144ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 53.21 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:11:33.991Z - Hash: 3861d94ab5b416e2 - Time: 170ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 53.30 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:11:43.796Z - Hash: 664345880975e622 - Time: 146ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 53.60 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:12:33.759Z - Hash: 1b13992f16eae7ae - Time: 164ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 53.89 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:13:04.964Z - Hash: a8f3c1bde1b20aee - Time: 173ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 53.87 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:13:15.834Z - Hash: 9446fcdf506bfb47 - Time: 166ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 54.04 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:14:03.264Z - Hash: a5142442edabc57b - Time: 166ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 54.06 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:14:10.202Z - Hash: 97691b02dddf0a9a - Time: 160ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 54.06 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:14:12.638Z - Hash: 9415f07328eb3abf - Time: 146ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 53.87 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:14:30.159Z - Hash: bfedc210445cce96 - Time: 163ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 53.88 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:14:32.253Z - Hash: ba5bebe21584f774 - Time: 155ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 53.84 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:17:19.472Z - Hash: 0971aeef2a23688c - Time: 170ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 54.45 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:20:16.033Z - Hash: 99280c54c34f7833 - Time: 175ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 54.45 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:20:16.829Z - Hash: de09c79f3d930945 - Time: 147ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+5 unchanged chunks
+
+Build at: 2023-10-05T08:20:18.266Z - Hash: de09c79f3d930945 - Time: 135ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 54.53 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:20:32.793Z - Hash: 41d98664c817fc27 - Time: 160ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 54.53 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:20:35.783Z - Hash: 90485b3adb8eaaa1 - Time: 150ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 54.45 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:20:40.374Z - Hash: de09c79f3d930945 - Time: 131ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 54.47 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:21:04.599Z - Hash: 0bf966b5bc7778ec - Time: 185ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 54.57 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:21:25.313Z - Hash: 2c1975fe578c3dc2 - Time: 169ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 54.99 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:22:42.407Z - Hash: 64d253013b50ff1d - Time: 186ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 54.97 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:22:54.779Z - Hash: 3e68faa26e4d357c - Time: 166ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 55.44 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:24:03.370Z - Hash: 973edb0f2849cb04 - Time: 170ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 55.44 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:24:26.705Z - Hash: bcd03cc23e91c209 - Time: 173ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 55.44 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:24:46.480Z - Hash: 3b20046dd299115d - Time: 166ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 55.45 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:24:58.292Z - Hash: ad50280a1eace121 - Time: 178ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 55.42 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:25:01.826Z - Hash: d7a63a0c21384926 - Time: 163ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 55.43 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:25:10.858Z - Hash: 799f051ffa4e16ed - Time: 166ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 55.43 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:25:14.020Z - Hash: d5c75dc185e8665f - Time: 153ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 55.38 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:25:15.318Z - Hash: 16a41914d1132829 - Time: 149ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 55.43 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:25:47.293Z - Hash: a0115e748c80e2c8 - Time: 170ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 55.43 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:25:50.893Z - Hash: 0013da5619babeb8 - Time: 152ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 55.43 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:25:53.504Z - Hash: d5c75dc185e8665f - Time: 125ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 55.42 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:25:58.701Z - Hash: c7dea8241403af87 - Time: 148ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 55.42 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:26:01.937Z - Hash: 35fab00a528d9588 - Time: 156ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 55.42 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:26:05.274Z - Hash: a46705f6cb59c1eb - Time: 153ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 55.42 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:26:08.192Z - Hash: 6c4bf2a8a524f1bb - Time: 152ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 55.42 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:26:52.715Z - Hash: b1f20343840f868e - Time: 175ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 55.43 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:26:59.365Z - Hash: 48b2286391189e92 - Time: 163ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 55.43 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:27:04.113Z - Hash: 92ea70bf14a2e262 - Time: 155ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 56.03 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:29:24.306Z - Hash: a980368f59577e63 - Time: 164ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 56.03 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:29:26.204Z - Hash: 82d1ca1fc6636d1a - Time: 148ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 56.31 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:30:08.958Z - Hash: adcbfe6ba0cb7da8 - Time: 174ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 56.55 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:31:18.037Z - Hash: a4989ef290fde245 - Time: 195ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 57.05 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:32:14.084Z - Hash: 9124a96b0c62f661 - Time: 181ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 57.06 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:32:29.093Z - Hash: 872cc001ebaa25a2 - Time: 183ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 57.06 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:32:37.078Z - Hash: 4550a3acb8135358 - Time: 162ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 57.12 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:32:47.865Z - Hash: 98b5de5497024c7d - Time: 176ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 57.12 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:32:51.020Z - Hash: 9921e8947c87f055 - Time: 167ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 57.12 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:32:56.279Z - Hash: 1c976a1bc859cd35 - Time: 135ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 57.13 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:32:59.650Z - Hash: ddf7de2c7f7e9634 - Time: 166ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 57.58 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:34:43.642Z - Hash: 7df8e7fb60cd4d90 - Time: 189ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 57.58 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:34:55.116Z - Hash: 555d790426bd6ee6 - Time: 166ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 57.58 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:35:55.351Z - Hash: 73a77221c42cb264 - Time: 196ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 57.58 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:35:58.263Z - Hash: eedd1957476a9a26 - Time: 169ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 57.58 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:36:10.773Z - Hash: 2c7290435da24742 - Time: 176ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 57.64 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:37:01.281Z - Hash: 0d456e38df70ba35 - Time: 182ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 57.64 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:37:05.603Z - Hash: fb3cedca945daa66 - Time: 165ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 57.64 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:37:07.862Z - Hash: 6d4719231227c7cd - Time: 155ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 57.64 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:37:10.602Z - Hash: fc8f0a5220a5462c - Time: 159ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 57.59 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:37:14.686Z - Hash: 987ee3cc9fc01bbc - Time: 154ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 59.21 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:41:13.237Z - Hash: ebd69eed1497c12f - Time: 177ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 59.57 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:42:44.698Z - Hash: 01588130c6beb6f5 - Time: 206ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 59.77 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:43:27.303Z - Hash: 9c1cdde4f0406d9d - Time: 183ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 59.86 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:43:40.238Z - Hash: 04918c69464f1b5f - Time: 185ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 59.96 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:43:54.467Z - Hash: cd107d15333bd335 - Time: 190ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 60.03 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:44:07.705Z - Hash: 7761344a04406786 - Time: 186ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 60.03 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:44:20.774Z - Hash: be483c241f248014 - Time: 186ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 60.03 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:44:25.996Z - Hash: 3f0ffce0021eb0ec - Time: 170ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 60.03 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:44:35.594Z - Hash: 39d92ebc5bad9e0c - Time: 180ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 60.03 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:44:46.816Z - Hash: ab6f8e65b0f83dfe - Time: 174ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 60.73 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:46:30.399Z - Hash: 7161933754043625 - Time: 182ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 61.36 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:48:22.162Z - Hash: 3436923e7f5aed92 - Time: 197ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 61.61 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:49:29.523Z - Hash: bae6e04c6959c868 - Time: 200ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 61.61 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:49:30.336Z - Hash: 0f7201cf105067ba - Time: 162ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+5 unchanged chunks
+
+Build at: 2023-10-05T08:50:31.870Z - Hash: 0f7201cf105067ba - Time: 177ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 61.67 kB | 
+runtime.js          | runtime |  6.52 kB | 
+
+3 unchanged chunks
+
+Build at: 2023-10-05T08:50:46.053Z - Hash: d39ae05a84f629c3 - Time: 189ms
+
+✔ Compiled successfully.
+^C
+sonthanhbui@SonTBui ShopAngular % sudo ng generate componet register
+Password:
+Error: Unknown argument: register
+sonthanhbui@SonTBui ShopAngular % sudo ng generate component register
+

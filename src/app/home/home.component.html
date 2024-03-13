@@ -1,0 +1,174 @@
+<style>
+    .intro-section{
+        text-align: center;
+        color: rgb(11, 5, 5);
+        padding: 20px;
+    }
+    .search-box{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+    }
+    .product-category{
+        color: grey;
+        background-color: transparent;
+        width: 150px;
+        border-color: rgb(173, 178,203);
+        justify-content: center;
+       
+    }
+    .search-input{
+        width: 300px;
+        background-color: rgb(red, green, blue);
+        margin-right: 10px;
+        border-color: rgba(red, green, blue, alpha);
+        color: red;
+    }
+    .from-control{
+        background: transparent;
+        color: white;
+    }
+    .from-control::placeholder{
+        color: rgba(red, green, blue, alpha);
+        opacity: 1;
+    }
+    .from-control:-ms-input-placeholder{
+        color: rgba(red, green, blue, alpha);;
+    }
+    .from-control::-ms-input-placeholdeer{
+        color:rgba(red, green, blue, alpha);;
+    }
+    .product-item{
+        background: rgb(19,23,42);
+        border: 1px solid rgb(35,39,61);
+        border-radius: 20px;
+        padding: 20px;
+        margin-bottom: 20px;
+        margin-top: 10px;
+    }
+    .product-image{
+        width: 100%;
+        height: auto;
+        margin-bottom: 10px;
+    }
+    .product-name{
+        color: white;
+    }
+    .product-description{
+        color: rgb(173, 178,203);
+    }
+    .product-warranty{
+        color: rgb(242,126,212);
+    }
+    .product-price{
+        color: white;
+    }
+    .product-rating{
+        color: #FFD700;
+        margin-top: 10px;
+    }
+    
+    .title{
+        color: white;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    div{
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    .product-action{
+        display: flex;
+        justify-content: center;
+        margin-top: 20px;
+       
+    }
+    .space-x{
+        margin: 0 5px;
+    }
+</style>
+
+<app-header></app-header>
+<div class="container"> 
+    <div class="intro-section">
+        <h1 class="title">Store Smartphone</h1>
+        
+    </div>
+    <!-- s -->
+    <div class="search-box">
+        <input type="text" class="from-control search-input" placeholder="Find product">
+        <select class="form-control product-category">
+            <option selected disabled>List Product</option>
+            <option >1</option>
+            <option >2</option>
+            <option >3</option>
+        </select>
+    </div>
+    <div class="row">
+        <div class="col-lg-4 col-md-6">
+            <div class="product-item">
+                <img src="https://images.pexels.com/photos/18525573/pexels-photo-18525573/free-photo-of-anh-sang-phong-c-nh-dan-ong-nh-ng-ng-i.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="Product image" class="product-image">
+                <h3 class="product-name">Iphone 15 Promax</h3>
+                <p class="product-description">This is new model of iphone </p>
+                <p class="product-warranty"> Warranty: 12 month</p>
+                <p class="product-price">Price: <del>$200</del> $150</p>
+                <p class="product-rating">
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star-half"></i>
+                </p>
+                <div class="product-action">
+                    <button class="btn btn-primary">Add to cart</button>
+                    <span class="space-x"></span>
+                    <button class="btn btn-success">Buy now</button>
+                </div>
+            </div>
+            
+        </div>
+        <div class="col-lg-4 col-md-6">
+            <div class="product-item">
+                <img src="https://images.pexels.com/photos/18525573/pexels-photo-18525573/free-photo-of-anh-sang-phong-c-nh-dan-ong-nh-ng-ng-i.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="Product image" class="product-image">
+                <h3 class="product-name">Iphone 15 Promax</h3>
+                <p class="product-description">This is new model of iphone </p>
+                <p class="product-warranty"> Warranty: 12 month</p>
+                <p class="product-price">Price: <del>$200</del> $150</p>
+                <p class="product-rating">
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star-half"></i>
+                </p>
+                <div class="product-action">
+                    <button class="btn btn-primary">Add to cart</button>
+                    <span class="space-x"></span>
+                    <button class="btn btn-success">Buy now</button>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-4 col-md-6">
+            <div class="product-item">
+                <img src="https://images.pexels.com/photos/18525573/pexels-photo-18525573/free-photo-of-anh-sang-phong-c-nh-dan-ong-nh-ng-ng-i.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="Product image" class="product-image">
+                <h3 class="product-name">Iphone 15 Promax</h3>
+                <p class="product-description">This is new model of iphone </p>
+                <p class="product-warranty"> Warranty: 12 month</p>
+                <p class="product-price">Price: <del>$200</del> $150</p>
+                <p class="product-rating">
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star-half"></i>
+                </p>
+                <div class="product-action">
+                    <button class="btn btn-primary">Add to cart</button>
+                    <span class="space-x"></span>
+                    <button class="btn btn-success">Buy now</button>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+</div>  
+<app-footer></app-footer>
